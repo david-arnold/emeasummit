@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://drive.google.com/open?id=0B3GJBOtsVeh9RWhQSVB5d3NKVUE</string>
+					<string>https://github.com/david-arnold/emeasummit/raw/master/EMEA_Summit_2016_09_26-inhouse.ipa</string>
 				</dict>
                 <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>https://drive.google.com/open?id=0B3GJBOtsVeh9SVBoQnNnTllTNWM</string>
+                        <string>https://github.com/david-arnold/emeasummit/raw/master/SalesSummitIcon57x57.png</string>
                 </dict>
 				<dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>https://drive.google.com/open?id=0B3GJBOtsVeh9UkxYXzJYODhobHM</string>
+                        <string>https://github.com/david-arnold/emeasummit/raw/master/SalesSummitIcon512x512.png</string>
                 </dict>
 			</array>
 			<key>metadata</key>
